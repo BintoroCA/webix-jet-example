@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "fname": "Frans",
+      "lemail": "franscool@mail.com"
+    },
+    {
+      "id": 2,
+      "fname": "Fauzi",
+      "lemail": "frsdsdl@mail.com"
+    },
+    {
+      "id": 3,
+      "fname": "alip",
+      "lemail": "frasdsdcool@mail.com"
+    },
+    {
+      "fname": "Morgan Smash",
+      "lemail": "uknowmesowell@mail.com",
+      "id": 4
+    },
+    {
+      "fname": "newuser",
+      "lemail": "newuser@mail.com",
+      "id": 5
+    }
+  ]
+}
